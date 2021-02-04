@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 📐 J'apprends le JS
+- 📫 Comment me contacter Master#0005
 <!--
 **Im2Master/Im2Master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
