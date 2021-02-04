@@ -1,4 +1,5 @@
-### Hi there 👋
+### Salut toi 👋
+✨ A Propos De Moi : )
 - 📐 J'apprends le JS
 - 📫 Comment me contacter Master#0005
 <!--
