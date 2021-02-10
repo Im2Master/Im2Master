@@ -1,7 +1,7 @@
 ### Salut toi 👋
 ✨ A Propos De Moi : )
 - 📐 J'apprends présentement le __**JS**__
-- 📫 Comment me contacter __**Master#0005*__
+- 📫 Comment me contacter __**Master#0005**__
 - 🌱 Je travaille présentement sur __*BotDiscord*__
 
 
