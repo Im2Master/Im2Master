@@ -21,10 +21,6 @@ Currently learning JavaScript and Lua
     ﹒
 
     
-</p>
-<p align="center">  
-Send me Friend Request on Discord, Subscribe to my Youtube, Follow me on Roblox, Join my Support Server.
-</p>
 
 
 
